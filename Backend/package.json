@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server" : "nodemon server.js"
+  },
+  "author": "AYEVA Mohamed & MBEZELE Evrad Marc",
+  "license": "ISC",
+  "description": ""
+}
